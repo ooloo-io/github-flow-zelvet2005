@@ -3,6 +3,7 @@ body {
   font-size: 18px;
 }
 
+
 .header {
   height: 50px;
   display: flex;
@@ -11,6 +12,7 @@ body {
   border-bottom: 1px solid black;
 }
 
+
 .footer {
   height: 49px;
   display: flex;
@@ -18,6 +20,7 @@ body {
   align-items: center;
   border-top: 1px solid black;
 }
+
 
 .content {
   min-height: calc(100vh - 100px);
